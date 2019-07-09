@@ -28,7 +28,7 @@
     "express-fileupload": "0.0.5",
     "humanize-ms": "1.2.1",
     "jquery": "^3.0.0",
-    "marked": "0.3.9",
+    "marked": "0.4.0",
     "method-override": "latest",
     "moment": "2.19.3",
     "mongoose": "4.11.14",
@@ -39,7 +39,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^5.7.0",
-    "snyk": "^1.68.0"
+    "snyk": "^1.192.4"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
